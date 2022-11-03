@@ -1,0 +1,1 @@
+var json_punto_encuentro_1 = {"type":"FeatureCollection","name":"punto_encuentro_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"desc":"Punto de encuentro"},"geometry":{"type":"Point","coordinates":[-76.523262451134315,3.382050432125789]}}]}
